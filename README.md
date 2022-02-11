@@ -60,7 +60,7 @@ vi /etc/nginx/nginx.conf
 
 ***
 # Mục lục
-[1. Giới thiệu mô hình]
+[1. Giới thiệu mô hình] (https://github.com/vietanhtb/baocao_tonghop#1gi%E1%BB%9Bi-thi%E1%BB%87u-m%C3%B4-h%C3%ACnh)
 
 [2. Tiến hành cài đặt]
 
